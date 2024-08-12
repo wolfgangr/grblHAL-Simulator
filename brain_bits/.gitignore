@@ -1,1 +1,4 @@
 .~lock*.ods\#
+*.raw
+*.log
+*.net
